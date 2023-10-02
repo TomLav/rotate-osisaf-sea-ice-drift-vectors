@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Transformation and Rotation of OSI SAF Sea Ice Drift
+  vectors
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Lavergne
+    affiliation: Norwegian Meteorological Institute
+    orcid: 'https://orcid.org/0000-0002-9498-4551'
+repository-code: >-
+  https://github.com/TomLav/rotate-osisaf-sea-ice-drift-vectors
+abstract: >-
+  This repo demonstrates common transformations of sea-ice
+  drift vector components. It was originally prepared as a
+  companion to the manuscript documenting the first version
+  of the OSI SAF sea-ice drift Climate Data Record
+  (OSI-455):
+
+
+  Lavergne, T. and Down, E.: A Climate Data Record of
+  Year-Round Global Sea Ice Drift from the EUMETSAT OSI SAF,
+  Earth Syst. Sci. Data Discuss. [preprint],
+  https://doi.org/10.5194/essd-2023-40, in review, 2023.
+keywords:
+  - OSI SAF
+license: GPL-3.0
