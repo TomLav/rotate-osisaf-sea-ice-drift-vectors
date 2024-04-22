@@ -5,6 +5,7 @@ cff-version: 1.2.0
 title: >-
   Transformation and Rotation of OSI SAF Sea Ice Drift
   vectors
+doi: 10.5281/zenodo.8398399
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
